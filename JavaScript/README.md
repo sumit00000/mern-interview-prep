@@ -14,13 +14,16 @@ This directory is part of the **MERN Interview Preparation** project and focuses
 
 ---
 
-## 🔗 External Resources
+## ​ External Resources
 
 - [sudheerj/javascript-interview-questions (GitHub)](https://github.com/sudheerj/javascript-interview-questions)  
   Over 1000+ frequently asked JavaScript interview questions.
 
 - [JavaScript Interview Question (Scribd)](https://www.scribd.com/document/787888235/JavaScript-Interview-Question)  
   A detailed document covering categorized JavaScript questions and answers.
+
+- [greatfrontend/top-javascript-interview-questions (GitHub)](https://github.com/greatfrontend/top-javascript-interview-questions)  
+  Top JavaScript interview questions and answers for Front End Engineers curated for 2025, structured by difficulty and regularly updated :contentReference[oaicite:0]{index=0}.
 
 ---
 
