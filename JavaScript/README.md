@@ -23,7 +23,10 @@ This directory is part of the **MERN Interview Preparation** project and focuses
   A detailed document covering categorized JavaScript questions and answers.
 
 - [greatfrontend/top-javascript-interview-questions (GitHub)](https://github.com/greatfrontend/top-javascript-interview-questions)  
-  Top JavaScript interview questions and answers for Front End Engineers curated for 2025, structured by difficulty and regularly updated :contentReference[oaicite:0]{index=0}.
+  Top JavaScript interview questions and answers curated for Front End Engineers in 2025.
+
+- [its‑ravi‑ranjan/interview_prep (GitHub)](https://github.com/its-ravi-ranjan/interview_prep)  
+  Comprehensive tech interview prep covering DSA in Java/JS, System Design, Networking (OSI), OOP, and Amazon SDE2 Leadership Principles & Tips.
 
 ---
 
